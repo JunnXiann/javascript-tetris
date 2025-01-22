@@ -1,3 +1,5 @@
+# repo link: https://github.com/JunnXiann/javascript-tetris
+
 FROM nginx:alpine
 
 WORKDIR /usr/share/nginx/html
